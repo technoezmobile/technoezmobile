@@ -2,106 +2,108 @@
 
 # Shivam Singh
 
-### AI-assisted Web Developer · CSE Student (AI & ML) · Digital Creator
+### AI-assisted Web Developer · Computer Science Engineering · AI & Machine Learning
 
-**Building useful digital experiences with thoughtful craft.**
+**Building useful digital experiences. Designing, editing, and shipping with purpose.**
 
-[Portfolio](https://me.technoezmobile.com) · [LinkedIn](https://www.linkedin.com/in/itsxshivam/) · [Instagram](https://instagram.com/technoezmobile) · [YouTube](https://www.youtube.com/@Technoez_Mobile) · [Telegram](https://telegram.me/tzlabss)
+<a href="https://me.technoezmobile.com"><img src="./assets/button-portfolio.gif" width="188" alt="Animated TZ Labs style liquid-glass portfolio button with a moving spectrum rim" /></a>
+<a href="https://www.linkedin.com/in/itsxshivam/"><img src="./assets/button-linkedin.gif" width="188" alt="Animated liquid-glass LinkedIn button with a moving spectrum rim" /></a>
+<a href="https://github.com/technoezmobile"><img src="./assets/button-github.gif" width="188" alt="Animated liquid-glass GitHub button with a moving spectrum rim" /></a>
 
-<a href="./assets/profile-motion-reel.mp4"><strong>▶ Watch the profile motion reel (MP4)</strong></a>
+<a href="./assets/profile-motion-reel.mp4"><strong>▶ Watch the profile motion reel</strong></a>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/hero-motion-poster.png">
-  <img src="./assets/hero-motion.gif" width="100%" alt="Animated opening: Shivam Singh's supplied AI Innovation banner with a rotating perspective 3D wireframe cube, subtle grid motion, and blue light sweep." />
+  <img src="./assets/hero-motion.gif" width="100%" alt="Shivam Singh's blue AI and digital innovation banner, with a moving beam and a traveling spectral frame." />
 </picture>
 
 </div>
 
-## 01 · About me
+## 01 · About — identity card
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/whoami-motion-poster.png">
-  <img src="./assets/whoami-motion.gif" width="100%" alt="Animated profile portrait and terminal card introducing Shivam Singh, AI-assisted Web Developer and Computer Science student focused on AI and machine learning." />
+  <img src="./assets/whoami-motion.gif" width="100%" alt="Portrait-led glass identity card for Shivam Singh, with a moving orbit, traveling rainbow border, AI-assisted web developer title, Computer Science and AI/ML studies, and expected 2027 graduation." />
 </picture>
 
-I’m a Computer Science Engineering student focused on AI and machine learning, graduating in 2027. I build and improve web experiences, explore AI-assisted workflows, and work across creator content and digital operations.
+I’m a Computer Science Engineering student specializing in AI and machine learning. I build and improve websites with AI-assisted workflows, and work across digital content, e-commerce operations, and creative production. My analytics foundation includes SQL, spreadsheets, dashboards, and reporting.
 
-**Currently interested in:** frontend engineering, useful AI, product craft, and digital experiences that feel clear and considered.
+**Currently focused on:** web development opportunities, freelance website projects, and technology content.
 
-## 02 · Selected projects
+## 02 · Selected work — products and platforms
 
-### ElementraUI · Open-source component discovery
+### ElementraUI · Component discovery
 
-<a href="https://elementra-ui-website.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-elementraui-motion-poster.png"><img src="./assets/project-elementraui-motion.gif" width="100%" alt="ElementraUI motion card with a perspective rotating 3D cyan cube, orbiting marker, and animated light sweep." /></picture></a>
+<a href="https://elementra-ui-website.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-elementraui-motion-poster.png"><img src="./assets/project-elementraui-motion.gif" width="100%" alt="ElementraUI animated glass case study with a detailed component library preview, shifting atmosphere, and traveling spectrum borders." /></picture></a>
 
-Discovery platform for components, themes, templates, tools, icons, and motion resources. [Open the website](https://elementra-ui-website.vercel.app) · [View the source](https://github.com/technoezmobile/ElementraUI-Website)
+An open-source discovery platform for UI components, themes, templates, tools, icons, and motion resources. [Explore the platform](https://elementra-ui-website.vercel.app) · [View the repository](https://github.com/technoezmobile/ElementraUI-Website)
 
 ### TZ ROMs · Android ROM discovery
 
-<a href="https://tzroms.tzlabs.in"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-tz-roms-motion-poster.png"><img src="./assets/project-tz-roms-motion.gif" width="100%" alt="TZ ROMs animated project card, with a rotating violet 3D wireframe cube and moving orbit." /></picture></a>
+<a href="https://tzroms.tzlabs.in"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-tz-roms-motion-poster.png"><img src="./assets/project-tz-roms-motion.gif" width="100%" alt="TZ ROMs animated glass case study with a device portal mockup, connecting guide nodes, an atmospheric background, and a moving spectrum border." /></picture></a>
 
-Multi-device Android ROM discovery hub, including a dedicated Poco X6 Pro portal. [Explore TZ ROMs](https://tzroms.tzlabs.in)
+A multi-device Android ROM discovery hub with guides and a dedicated Poco X6 Pro portal. [Explore TZ ROMs](https://tzroms.tzlabs.in)
 
-### PHYSIFER 2.0 · Education and creator platform
+### PHYSIFER 2.0 · Education and creator work
 
-<a href="https://physifer2-o.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-physifer-motion-poster.png"><img src="./assets/project-physifer-motion.gif" width="100%" alt="PHYSIFER 2.0 animated project card with a rotating amber 3D wireframe cube." /></picture></a>
+<a href="https://physifer2-o.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-physifer-motion-poster.png"><img src="./assets/project-physifer-motion.gif" width="100%" alt="PHYSIFER animated creator case study with a video timeline, moving waveform, glass frame, and traveling spectral edge." /></picture></a>
 
-Education project and channel website. I also support social content and video editing. [Visit PHYSIFER 2.0](https://physifer2-o.vercel.app)
+An educational channel website. My related work includes social content management and video editing. [Visit PHYSIFER 2.0](https://physifer2-o.vercel.app) · [YouTube channel](https://www.youtube.com/@PHYSIFER)
 
 ### TZ Labs · Technology studio
 
-<a href="https://tzlabs.in"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-tzlabs-motion-poster.png"><img src="./assets/project-tzlabs-motion.gif" width="100%" alt="TZ Labs animated project card with a rotating teal 3D wireframe cube." /></picture></a>
+<a href="https://tzlabs.in"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-tzlabs-motion-poster.png"><img src="./assets/project-tzlabs-motion.gif" width="100%" alt="TZ Labs animated glass case study with a layered three-dimensional studio architecture illustration, drifting light, and spectrum frame." /></picture></a>
 
-Technology studio for digital projects and experiences. [Visit TZ Labs](https://tzlabs.in)
+A technology and creative studio for digital projects and experiences. [Visit TZ Labs](https://tzlabs.in)
 
 ### PrayanOne · Railway information
 
-<a href="https://prayanone.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-prayanone-motion-poster.png"><img src="./assets/project-prayanone-motion.gif" width="100%" alt="PrayanOne animated project card with a rotating blue 3D wireframe cube." /></picture></a>
+<a href="https://prayanone.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-prayanone-motion-poster.png"><img src="./assets/project-prayanone-motion.gif" width="100%" alt="PrayanOne animated rail-route case study with linked station nodes and a traveling train signal inside a glass panel." /></picture></a>
 
-Railway information web project. [Explore PrayanOne](https://prayanone.vercel.app)
+A railway information web project. [Explore PrayanOne](https://prayanone.vercel.app)
 
-### Greenera Organics · E-commerce and digital operations
+### Greenera Organics · E-commerce support
 
-<a href="https://greeneraorganics.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-greenera-motion-poster.png"><img src="./assets/project-greenera-motion.gif" width="100%" alt="Greenera Organics animated project card with a rotating green 3D wireframe cube." /></picture></a>
+<a href="https://greeneraorganics.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-greenera-motion-poster.png"><img src="./assets/project-greenera-motion.gif" width="100%" alt="Greenera Organics animated e-commerce case study with a product storefront, moving reflections, glass surface, and traveling green spectrum border." /></picture></a>
 
-Freelance social media and e-commerce support, plus customization of the Vercel-hosted business website. [Visit the website](https://greeneraorganics.vercel.app)
+Freelance social media and e-commerce support, plus customization of the Vercel-hosted website. [Visit the customized website](https://greeneraorganics.vercel.app)
 
-### ApnaBazaar · Independent web project
+### ApnaBazaar · Shopping experience
 
-<a href="https://apna-bazaar-three.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-apnabazaar-motion-poster.png"><img src="./assets/project-apnabazaar-motion.gif" width="100%" alt="ApnaBazaar animated project card with a rotating rose colored 3D wireframe cube." /></picture></a>
+<a href="https://apna-bazaar-three.vercel.app"><picture><source media="(prefers-reduced-motion: reduce)" srcset="./assets/project-apnabazaar-motion-poster.png"><img src="./assets/project-apnabazaar-motion.gif" width="100%" alt="ApnaBazaar animated shopping case study with a moving product-grid mockup, a dimensional shopping bag, and a traveling spectrum frame." /></picture></a>
 
-Independent portfolio project exploring a shopping experience. [Explore ApnaBazaar](https://apna-bazaar-three.vercel.app)
+An independent web project exploring an everyday shopping experience. [Explore ApnaBazaar](https://apna-bazaar-three.vercel.app)
 
-## 03 · GitHub activity
-
-<picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-motion-poster.png">
-  <img src="./assets/contributions-motion.gif" width="100%" alt="Contribution calendar built from the profile's public contribution data; a luminous tracer moves across the calendar without changing the underlying values." />
-</picture>
-
-The calendar is built from public GitHub activity and refreshed daily. Private activity is not included.
-
-## 04 · Experience
+## 03 · Experience — creative work, digital operations
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/experience-motion-poster.png">
-  <img src="./assets/experience-motion.gif" width="100%" alt="Animated experience timeline: Fiverr design and video editing, 2020 to 2024; PHYSIFER social content and video editing, January 2026 to present; Greenera Organics social, e-commerce, and website support, May to September 2026." />
+  <img src="./assets/experience-motion.gif" width="100%" alt="Animated editorial career timeline: Fiverr design and video editing, 2020 to 2024; PHYSIFER social content and video editing, January 2026 to present; Greenera Organics social media, e-commerce, and website customization, May to September 2026." />
 </picture>
 
-Earlier work also includes supplier support, customer service, e-commerce operations, website management, SEO, and reporting.
+My earlier experience also includes supplier support, customer service, website management, SEO, marketplace listings, and reporting.
 
-## 05 · Toolkit
+## 04 · Toolkit — the tools behind the work
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/toolkit-motion-poster.png">
-  <img src="./assets/toolkit-motion.gif" width="100%" alt="Animated toolkit board: web development, data and reporting, AI-assisted workflows, digital operations, and creative production; a perspective 3D cube rotates in the corner." />
+  <img src="./assets/toolkit-motion.gif" width="100%" alt="Animated toolkit arranged as a glass editorial grid for web, data, AI-assisted workflows, digital operations, and creative production; each card has its own traveling spectrum edge." />
 </picture>
 
-## 06 · Creator channels
+## 05 · Build log — GitHub activity
+
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contributions-motion-poster.png">
+  <img src="./assets/contributions-motion.gif" width="100%" alt="Public GitHub contribution calendar in a luminous glass panel, with accurate contribution counts, moving scan signal, and traveling rainbow border." />
+</picture>
+
+The contribution view uses public GitHub activity. Private contributions are not included.
+
+## 06 · Creator universe — technology and gaming
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/channels-motion-poster.png">
-  <img src="./assets/channels-motion.gif" width="100%" alt="Animated creator channel cards for Technoez Mobile, Shade Explains, Dark Shade Gaming, and upcoming TZAILabs, with gentle moving accent rings." />
+  <img src="./assets/channels-motion.gif" width="100%" alt="Animated channel lineup for Technoez Mobile, Shade Explains, Dark Shade Gaming, and upcoming TZAILabs, framed by layered glass and moving spectrum edges." />
 </picture>
 
 - [Technoez Mobile](https://www.youtube.com/@Technoez_Mobile) · Technology
@@ -109,22 +111,24 @@ Earlier work also includes supplier support, customer service, e-commerce operat
 - [Dark Shade Gaming](https://www.youtube.com/@Dark_Shade_Gaming) · Gaming videos
 - [TZAILabs](https://www.youtube.com/@TZAILabs) · Upcoming AI content
 
-## 07 · Let’s connect
+## 07 · Connect — let’s build something useful
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/contact-motion-poster.png">
-  <img src="./assets/contact-motion.gif" width="100%" alt="Animated contact panel with a perspective 3D cube and links to Shivam's portfolio, LinkedIn, Instagram, and YouTube." />
+  <img src="./assets/contact-motion.gif" width="100%" alt="Animated contact panel with atmospheric blue lighting, frosted glass, moving 3D geometry, and individually traveling spectrum borders." />
 </picture>
 
-- **Portfolio:** [me.technoezmobile.com](https://me.technoezmobile.com)
-- **LinkedIn:** [linkedin.com/in/itsxshivam](https://www.linkedin.com/in/itsxshivam/)
-- **Instagram:** [@technoezmobile](https://instagram.com/technoezmobile)
-- **YouTube:** [@Technoez_Mobile](https://www.youtube.com/@Technoez_Mobile)
-- **Telegram:** [TZ Labs](https://telegram.me/tzlabss)
-- **Professional email:** [contactme@technoezmobile.com](mailto:contactme@technoezmobile.com)
-- **Work inquiries:** [workwithtechnoez@gmail.com](mailto:workwithtechnoez@gmail.com)
-
 <div align="center">
+
+<a href="https://me.technoezmobile.com"><img src="./assets/button-portfolio.gif" width="188" alt="Animated glass Portfolio button" /></a>
+<a href="https://www.linkedin.com/in/itsxshivam/"><img src="./assets/button-linkedin.gif" width="188" alt="Animated glass LinkedIn button" /></a>
+<a href="https://github.com/technoezmobile"><img src="./assets/button-github.gif" width="188" alt="Animated glass GitHub button" /></a>
+<a href="https://instagram.com/technoezmobile"><img src="./assets/button-instagram.gif" width="188" alt="Animated glass Instagram button" /></a>
+<a href="https://www.youtube.com/@Technoez_Mobile"><img src="./assets/button-youtube.gif" width="188" alt="Animated glass YouTube button" /></a>
+<a href="https://telegram.me/tzlabss"><img src="./assets/button-telegram.gif" width="188" alt="Animated glass Telegram button" /></a>
+<a href="mailto:contactme@technoezmobile.com"><img src="./assets/button-email.gif" width="188" alt="Animated glass email button" /></a>
+
+**Professional email:** [contactme@technoezmobile.com](mailto:contactme@technoezmobile.com) · **Work inquiries:** [workwithtechnoez@gmail.com](mailto:workwithtechnoez@gmail.com)
 
 *Build with curiosity · Ship with purpose*
 
