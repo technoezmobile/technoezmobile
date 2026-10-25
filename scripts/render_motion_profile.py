@@ -57,7 +57,7 @@ def glow_line(d,x,y,w,phase,color=CYAN):
     d.rounded_rectangle((x,y,x+w,y+3),2,fill=(18,57,91))
     d.rounded_rectangle((x+int((w-190)*((phase*.08)%1)),y,x+int((w-190)*((phase*.08)%1))+190,y+3),2,fill=color)
 
-def frames_for(name, draw_fn, n=24, duration=90):
+def frames_for(name, draw_fn, n=24, duration=90, colors=64):
     frames=[]
     for i in range(n):
         p=i/n*2*math.pi
@@ -66,7 +66,7 @@ def frames_for(name, draw_fn, n=24, duration=90):
         draw_fn(im,d,p,i,n)
         frames.append(im)
     frames=[f.resize((800,288),Image.Resampling.LANCZOS) for f in frames]
-    palette=frames[0].convert("P",palette=Image.Palette.ADAPTIVE,colors=64)
+    palette=frames[0].convert("P",palette=Image.Palette.ADAPTIVE,colors=colors)
     frames=[f.quantize(palette=palette,dither=Image.Dither.NONE) for f in frames]
     palette.save(ASSETS/f"{name}.gif",save_all=True,append_images=frames[1:],duration=duration,loop=0,optimize=True,disposal=1)
     palette.convert("RGB").save(ASSETS/f"{name}-poster.png",optimize=True)
@@ -219,8 +219,8 @@ if __name__ == "__main__":
         frames_for("contributions-motion",contributions,n=36,duration=100)
         print("Refreshed the public contribution animation")
     else:
-        frames_for("hero-motion",hero,n=36,duration=70)
-        frames_for("whoami-motion",who,n=32,duration=80)
+        frames_for("hero-motion",hero,n=36,duration=70,colors=160)
+        frames_for("whoami-motion",who,n=32,duration=80,colors=160)
         frames_for("contributions-motion",contributions,n=36,duration=100)
         frames_for("experience-motion",experience,n=36,duration=90)
         frames_for("toolkit-motion",toolkit,n=36,duration=90)
