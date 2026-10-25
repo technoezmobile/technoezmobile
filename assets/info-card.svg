@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="500" viewBox="0 0 620 500" role="img" aria-labelledby="title desc">
+<title id="title">Shivam Singh profile info card</title>
+<desc id="desc">A terminal-inspired animated profile card with verified role, study, focus, tools, and interests.</desc>
+<rect width="620" height="500" rx="16" fill="#080d16"/><rect x="1" y="1" width="618" height="498" rx="15" fill="none" stroke="#263449"/>
+<circle cx="24" cy="23" r="5" fill="#fb7185"/><circle cx="43" cy="23" r="5" fill="#fbbf24"/><circle cx="62" cy="23" r="5" fill="#34d399"/>
+<text x="310" y="27" text-anchor="middle" fill="#8493a9" font-family="monospace" font-size="12">shivam@github: ~</text>
+<text x="28" y="69" fill="#60a5fa" font-family="monospace" font-size="15">$ ./profile --summary</text>
+<text x="28" y="98" fill="#94a3b8" font-family="monospace" font-size="12">┌─ CURRENT PROFILE ───────────────────────────┐</text>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="0.50s" fill="freeze"/><text x="40" y="141" fill="#34d399" font-family="monospace" font-size="12">NAME   </text><text x="132" y="141" fill="#d9e4f4" font-family="monospace" font-size="12">Shivam Singh</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="0.65s" fill="freeze"/><text x="40" y="180" fill="#34d399" font-family="monospace" font-size="12">ROLE   </text><text x="132" y="180" fill="#d9e4f4" font-family="monospace" font-size="12">AI-assisted Web Developer</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="0.80s" fill="freeze"/><text x="40" y="219" fill="#34d399" font-family="monospace" font-size="12">STUDY  </text><text x="132" y="219" fill="#d9e4f4" font-family="monospace" font-size="12">CSE · AI &amp; ML · class of 2027</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="0.95s" fill="freeze"/><text x="40" y="258" fill="#34d399" font-family="monospace" font-size="12">FOCUS  </text><text x="132" y="258" fill="#d9e4f4" font-family="monospace" font-size="12">Web products · useful interfaces</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="1.10s" fill="freeze"/><text x="40" y="297" fill="#34d399" font-family="monospace" font-size="12">STACK  </text><text x="132" y="297" fill="#d9e4f4" font-family="monospace" font-size="12">React · TypeScript · Vite · SQL</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="1.25s" fill="freeze"/><text x="40" y="336" fill="#34d399" font-family="monospace" font-size="12">ALSO   </text><text x="132" y="336" fill="#d9e4f4" font-family="monospace" font-size="12">E-commerce · analytics · content</text></g>
+<g opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.32s" begin="1.40s" fill="freeze"/><text x="40" y="375" fill="#34d399" font-family="monospace" font-size="12">OPEN   </text><text x="132" y="375" fill="#d9e4f4" font-family="monospace" font-size="12">Web development · freelance</text></g>
+<text x="28" y="429" fill="#94a3b8" font-family="monospace" font-size="12">└──────────────────────────────────────────────┘</text>
+<text x="28" y="462" fill="#60a5fa" font-family="monospace" font-size="13">$ echo "curious by default; shipping by practice"</text>
+<text x="28" y="482" fill="#64748b" font-family="monospace" font-size="11">Education: AI &amp; ML · Expected graduation: 2027</text>
+</svg>
+

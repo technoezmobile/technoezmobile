@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="266" viewBox="0 0 1200 266" role="img" aria-labelledby="title desc">
+<title id="title">About Shivam Singh</title>
+<desc id="desc">AI-assisted web developer, computer science engineering student specializing in AI and machine learning, and digital creator.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset="1" stop-color="#0d2440"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="1200" height="266" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="264" rx="17" fill="none" stroke="#203854"/>
+<circle cx="1082" cy="132" r="105" fill="#0ea5e9" opacity=".08"/><circle cx="1082" cy="132" r="74" fill="none" stroke="#38bdf8" stroke-opacity=".27"/><circle cx="1082" cy="132" r="48" fill="none" stroke="#38bdf8" stroke-opacity=".25"/>
+<path d="M1020 150l34-36 27 21 53-61" fill="none" stroke="#38bdf8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="1134" cy="74" r="5" fill="#7dd3fc"/>
+<text x="42" y="49" fill="#7dd3fc" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="2">CURIOUS BY DEFAULT · BUILDING WITH INTENT</text>
+<text x="42" y="94" fill="#f1f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">I turn ideas into useful web experiences.</text>
+<text x="42" y="132" fill="#b7c7db" font-family="Segoe UI,Arial,sans-serif" font-size="16">I’m Shivam — a Computer Science Engineering student focused on AI &amp; ML,</text>
+<text x="42" y="158" fill="#b7c7db" font-family="Segoe UI,Arial,sans-serif" font-size="16">building through frontend development, practical analytics, and AI-assisted workflows.</text>
+<text x="42" y="184" fill="#b7c7db" font-family="Segoe UI,Arial,sans-serif" font-size="16">Outside the code, I work across e-commerce operations and technology content.</text>
+<rect x="42" y="211" width="208" height="32" rx="16" fill="#102e4f" stroke="#22527d"/><text x="146" y="232" text-anchor="middle" fill="#bfe8ff" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">B.TECH · EXPECTED 2027</text>
+<rect x="262" y="211" width="178" height="32" rx="16" fill="#102e4f" stroke="#22527d"/><text x="351" y="232" text-anchor="middle" fill="#bfe8ff" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">AI &amp; MACHINE LEARNING</text>
+<rect x="452" y="211" width="166" height="32" rx="16" fill="#102e4f" stroke="#22527d"/><text x="535" y="232" text-anchor="middle" fill="#bfe8ff" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">WEB · DIGITAL · DATA</text>
+</svg>
+

@@ -67,28 +67,38 @@ def render_svg(days: list[dict[str, int | str]]) -> str:
     total = sum(int(day["count"]) for day in days)
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="title desc">',
-        '<title id="title">GitHub contributions for technoezmobile</title>',
-        f'<desc id="desc">A calendar showing {total:,} contributions over the last year.</desc>',
-        '<style>@keyframes rise{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.day{animation:rise .45s ease-out both}@media(prefers-reduced-motion:reduce){.day{animation:none}}</style>',
-        f'<text x="{left}" y="18" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">{total:,} public contributions in the last year</text>',
+        '<title id="title">Shivam Singh’s GitHub contribution calendar</title>',
+        f'<desc id="desc">A calendar showing {total:,} contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>',
+        '<style>@keyframes reveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.wave{animation:reveal .4s ease-out both}@media(prefers-reduced-motion:reduce){.wave{animation:none;opacity:1}}</style>',
+        f'<text x="{left}" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  {total:,} public contributions</tspan></text>',
+        f'<path d="M{left} 25H{width-12}" stroke="#203854"/>',
     ]
     for label, weekday in (("Mon", 1), ("Wed", 3), ("Fri", 5)):
         y = top + weekday * (cell + gap) + 10
         parts.append(f'<text x="3" y="{y}" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">{label}</text>')
     month_seen: set[tuple[int, int]] = set()
-    paths = {level: [] for level in range(len(PALETTE))}
+    paths: dict[int, dict[int, list[str]]] = {}
+    max_wave = 0
     for offset in range((end - grid_start).days + 1):
         current = grid_start + timedelta(days=offset)
         col, row = offset // 7, (current.weekday() + 1) % 7
         x, y = left + col * (cell + gap), top + row * (cell + gap)
         level = min(4, levels.get(current.isoformat(), 0))
-        paths[level].append(f"M{x} {y}h{cell}v{cell}h-{cell}z")
+        wave = col + row
+        max_wave = max(max_wave, wave)
+        paths.setdefault(wave, {item: [] for item in range(len(PALETTE))})[level].append(f'M{x} {y}h{cell}v{cell}h-{cell}z')
         key = (current.year, current.month)
         if current.day == 1 and key not in month_seen:
             month_seen.add(key)
             parts.append(f'<text x="{x}" y="{top - 8}" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">{current.strftime("%b")}</text>')
-    for level, commands in paths.items():
-        parts.append(f'<path class="day" fill="{PALETTE[level]}" d="{"".join(commands)}"/>')
+    parts.append('<style>' + ''.join(f'.w{wave}{{animation-delay:{wave * 0.018:.3f}s}}' for wave in range(max_wave + 1)) + '</style>')
+    # Calendar cells are grouped by diagonal so a compact SVG can animate the real grid.
+    for wave in sorted(paths):
+        parts.append(f'<g class="wave w{wave}">')
+        for level, commands in paths[wave].items():
+            if commands:
+                parts.append(f'<path fill="{PALETTE[level]}" d="{"".join(commands)}"/>')
+        parts.append('</g>')
     legend_y = top + 7 * (cell + gap) + 18
     parts.append(f'<text x="{left}" y="{legend_y}" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Less</text>')
     for level, color in enumerate(PALETTE):
@@ -113,4 +123,5 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
 

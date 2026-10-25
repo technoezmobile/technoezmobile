@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="156" viewBox="0 0 1200 156" role="img" aria-labelledby="title desc">
+<title id="title">Build with curiosity, ship with purpose</title>
+<desc id="desc">Connect with Shivam Singh through his portfolio, LinkedIn, Instagram, YouTube, or email.</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#071326"/><stop offset="1" stop-color="#0e2440"/></linearGradient><linearGradient id="line"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<rect width="1200" height="156" rx="18" fill="url(#bg)"/><rect x="1" y="1" width="1198" height="154" rx="17" fill="none" stroke="#203854"/>
+<text x="38" y="53" fill="#7dd3fc" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">HAVE A GOOD PROBLEM TO SOLVE?</text>
+<text x="38" y="91" fill="#f1f7ff" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="700">Let’s build something useful.</text>
+<text x="38" y="122" fill="#9db2ca" font-family="Segoe UI,Arial,sans-serif" font-size="14">Web development · freelance projects · technology content</text>
+<path d="M850 0l350 0v156H990z" fill="#38bdf8" opacity=".05"/><path d="M884 86h255" stroke="url(#line)" stroke-width="2"/><circle cx="1139" cy="86" r="5" fill="#7dd3fc"/>
+<text x="1170" y="124" text-anchor="end" fill="#647e9c" font-family="monospace" font-size="12">TECHNOEZMOBILE  /  2026</text>
+</svg>
+

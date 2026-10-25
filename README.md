@@ -1,84 +1,86 @@
 <div align="center">
 
-<img src="./assets/Shivam%20Singh_%20AI%20Innovation%20Banner.png" alt="Shivam Singh — Technology, AI, Digital Innovation" width="100%" />
+<a href="https://me.technoezmobile.com">
+  <img src="./assets/Shivam%20Singh_%20AI%20Innovation%20Banner.png" width="100%" alt="Shivam Singh — Technology, AI, Digital Innovation" />
+</a>
 
-# Hi, I'm Shivam Singh 👋
+<p>
+  <a href="https://me.technoezmobile.com"><img src="https://img.shields.io/badge/PORTFOLIO-me.technoezmobile.com-102c4a?style=for-the-badge&labelColor=071326&logo=vercel&logoColor=7dd3fc" alt="Portfolio — me.technoezmobile.com" /></a>
+  <a href="https://www.linkedin.com/in/itsxshivam/"><img src="https://img.shields.io/badge/LINKEDIN-itsxshivam-102c4a?style=for-the-badge&labelColor=071326&logo=linkedin&logoColor=7dd3fc" alt="LinkedIn — itsxshivam" /></a>
+  <a href="https://instagram.com/technoezmobile"><img src="https://img.shields.io/badge/INSTAGRAM-technoezmobile-102c4a?style=for-the-badge&labelColor=071326&logo=instagram&logoColor=7dd3fc" alt="Instagram — technoezmobile" /></a>
+  <a href="https://www.youtube.com/@Technoez_Mobile"><img src="https://img.shields.io/badge/YOUTUBE-Technoez_Mobile-102c4a?style=for-the-badge&labelColor=071326&logo=youtube&logoColor=7dd3fc" alt="YouTube — Technoez Mobile" /></a>
+  <a href="https://telegram.me/tzlabss"><img src="https://img.shields.io/badge/TELEGRAM-TZ_Labs-102c4a?style=for-the-badge&labelColor=071326&logo=telegram&logoColor=7dd3fc" alt="Telegram — TZ Labs" /></a>
+</p>
 
-### AI-assisted Web Developer · Digital & E-commerce Operations · Data Analytics
+<h3><code>shivam@github: ~ $ ./contributions.sh</code></h3>
 
-[Portfolio](https://me.technoezmobile.com) · [GitHub](https://github.com/technoezmobile) · [LinkedIn](https://www.linkedin.com/in/itsxshivam/) · [Instagram](https://instagram.com/technoezmobile) · [YouTube](https://www.youtube.com/@Technoez_Mobile)
+<img src="./assets/contributions.svg" width="100%" alt="Animated public GitHub contribution calendar for technoezmobile, refreshed daily from GitHub's public contribution page." />
+
+<br />
+
+<h3><code>shivam@github: ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./assets/avatar-ascii.svg" width="420" alt="Shivam Singh's studio portrait rendered as monochrome ASCII art that types in line by line." /></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="500" alt="Terminal-style profile card: Shivam Singh, AI-assisted web developer, CSE AI and ML student expected to graduate in 2027, focused on web products, React, TypeScript, Vite, SQL, e-commerce, analytics, and creator work." /></td>
+  </tr>
+</table>
 
 </div>
 
----
+<br />
 
-<table>
-<tr>
-<td width="230" valign="middle">
-<img src="./assets/Studio%20Portrait%20with%20Folded%20Arms.png" alt="Studio portrait of Shivam Singh" width="210" />
-</td>
-<td valign="middle">
+<img src="./assets/section-01.svg" width="100%" alt="01 — A little about me: curiosity, craft, and practical problem-solving." />
 
-## About me
+<img src="./assets/about-card.svg" width="100%" alt="Shivam is a Computer Science Engineering student focused on AI and ML, building web experiences through frontend development, practical analytics, and AI-assisted workflows. He also works across e-commerce operations and technology content. Expected graduation 2027." />
 
-I'm a Computer Science Engineering student specializing in AI and ML, expected to graduate in 2027. I use AI-assisted workflows to plan, build, improve, and deploy web experiences. My work also spans e-commerce operations, digital content, and practical data reporting.
+<img src="./assets/section-02.svg" width="100%" alt="02 — Selected work: a few things I’ve been building and supporting." />
 
-I'm building toward web development opportunities first, freelance website projects second, and technology content as a creator.
+<a href="https://elementra-ui-website.vercel.app"><img src="./assets/project-elementraui.svg" width="100%" alt="ElementraUI — open-source discovery platform for components, themes, templates, tools, icons, and motion resources." /></a>
+<p align="center"><a href="https://github.com/technoezmobile/ElementraUI-Website"><img src="https://img.shields.io/badge/SOURCE-ElementraUI--Website-102c4a?style=for-the-badge&labelColor=071326&logo=github&logoColor=7dd3fc" alt="ElementraUI source repository" /></a></p>
 
-</td>
-</tr>
-</table>
+<a href="https://tzroms.tzlabs.in"><img src="./assets/project-tz-roms.svg" width="100%" alt="TZ ROMs — multi-device Android ROM discovery hub with a dedicated Poco X6 Pro portal." /></a>
 
-## Featured work
+<a href="https://physifer2-o.vercel.app"><img src="./assets/project-physifer.svg" width="100%" alt="PHYSIFER 2.0 — education project and channel website; Shivam also manages social content and edits videos for PHYSIFER." /></a>
 
-### Web and product projects
+<a href="https://tzlabs.in"><img src="./assets/project-tzlabs.svg" width="100%" alt="TZ Labs — technology studio website." /></a>
 
-- **[ElementraUI](https://elementra-ui-website.vercel.app)** · [Source](https://github.com/technoezmobile/ElementraUI-Website) — open-source UI resource discovery platform with component previews, themes, templates, tools, icons, and motion resources.
-- **[TZ ROMs](https://tzroms.tzlabs.in)** · [Duchamp ROM Portal](https://duchamp.tzroms.tzlabs.in) — a multi-device Android ROM discovery hub and its Poco X6 Pro portal.
-- **[PHYSIFER 2.0](https://physifer2-o.vercel.app)** — an education project and channel website. I also manage social content and edit videos for [PHYSIFER](https://www.youtube.com/@PHYSIFER).
-- **[PrayanOne](https://prayanone.vercel.app)** — a railway information web project.
-- **[ApnaBazaar](https://apna-bazaar-three.vercel.app)** — web project.
-- **[TZ Labs](https://www.tzlabs.in)** — technology studio website.
-- **[Greenera Organics](https://greeneraorganics.vercel.app)** — a customized version of the business website; the original business site is [greeneraorganics.com](https://www.greeneraorganics.com).
+<a href="https://prayanone.vercel.app"><img src="./assets/project-prayanone.svg" width="100%" alt="PrayanOne — railway information web project." /></a>
 
-### Digital and creator work
+<a href="https://greeneraorganics.vercel.app"><img src="./assets/project-greenera.svg" width="100%" alt="Greenera Organics — freelance social media and e-commerce management, plus customization of the Vercel-hosted business site. The original business website is greeneraorganics.com." /></a>
 
-- **PHYSIFER** — freelance social media content management and video editing, January 2026–present.
-- **Greenera Organics** — freelance social media and e-commerce management, May–September 2026, including site customization.
-- **Fiverr** — freelance graphic design and video editing, 2020–2024.
-- **Earlier experience** includes supplier support, customer service, e-commerce operations, website management, SEO, and reporting.
+<a href="https://apna-bazaar-three.vercel.app"><img src="./assets/project-apnabazaar.svg" width="100%" alt="ApnaBazaar — an independent web project in Shivam’s portfolio." /></a>
 
-## Creator channels
+<img src="./assets/section-03.svg" width="100%" alt="03 — Digital work: freelance and creator experience." />
 
-- [Technoez Mobile](https://www.youtube.com/@Technoez_Mobile) — technology channel
-- [Shade Explains](https://www.youtube.com/@shade_explains) — gaming explanations
-- [Dark Shade Gaming](https://www.youtube.com/@Dark_Shade_Gaming) — gaming videos
-- [TZAILabs](https://www.youtube.com/@TZAILABS) — upcoming AI content
+<img src="./assets/journey.svg" width="100%" alt="Freelance and creator experience: Fiverr graphic design and video editing from 2020 to 2024; PHYSIFER social content management and video editing from January 2026 to present; Greenera Organics social and e-commerce management and site customization from May to September 2026." />
 
-## Tools and skills
+<p align="center"><sub>Earlier experience also includes supplier support, customer service, e-commerce operations, website management, SEO, and reporting.</sub></p>
 
-- **Web:** HTML, CSS, JavaScript (basics), TypeScript, React, Vite, Tailwind CSS, WordPress, Git, GitHub, and Vercel
-- **Data:** SQL, Excel, Google Sheets, data cleaning, dashboards, and reporting
-- **Digital:** SEO, Google Search Console, e-commerce operations, and Amazon product listings
-- **AI-assisted workflows:** ChatGPT, Claude, Gemini, Cursor, and prompt engineering
-- **Creative:** Canva, graphic design, and video editing with Wondershare Filmora
+<img src="./assets/section-04.svg" width="100%" alt="04 — The toolkit: tools I use to make, measure, and improve." />
 
-## Education
+<img src="./assets/toolkit.svg" width="100%" alt="Toolkit: Web — HTML, CSS, TypeScript, React, Vite, Tailwind CSS, WordPress, Git, GitHub, Vercel. Data — SQL, Excel, Google Sheets, cleaning, dashboards, reporting. AI-assisted — ChatGPT, Claude, Gemini, Cursor, prompt engineering. Digital — SEO, Google Search Console, e-commerce, Amazon listings. Creative — Canva, graphic design, Filmora video editing." />
 
-**B.Tech, Computer Science Engineering — AI & ML specialization**  
-Expected graduation: 2027
+<div align="center">
 
-## Connect
+<h3><code>shivam@github: ~ $ ./channels.sh</code></h3>
 
-- **Professional email:** [contactme@technoezmobile.com](mailto:contactme@technoezmobile.com)
-- **Work inquiries:** [workwithtechnoez@gmail.com](mailto:workwithtechnoez@gmail.com)
-- **LinkedIn:** [linkedin.com/in/itsxshivam](https://www.linkedin.com/in/itsxshivam/)
-- **Instagram:** [@technoezmobile](https://instagram.com/technoezmobile)
-- **Telegram:** [TZ Labs](https://telegram.me/tzlabss)
-- **YouTube:** [Technoez Mobile](https://www.youtube.com/@Technoez_Mobile)
+[![Technoez Mobile](https://img.shields.io/badge/Technoez_Mobile-technology_channel-102c4a?style=for-the-badge&labelColor=071326&logo=youtube&logoColor=7dd3fc)](https://www.youtube.com/@Technoez_Mobile)
+[![Shade Explains](https://img.shields.io/badge/Shade_Explains-gaming_explanations-102c4a?style=for-the-badge&labelColor=071326&logo=youtube&logoColor=7dd3fc)](https://www.youtube.com/@shade_explains)
+[![Dark Shade Gaming](https://img.shields.io/badge/Dark_Shade_Gaming-gaming_videos-102c4a?style=for-the-badge&labelColor=071326&logo=youtube&logoColor=7dd3fc)](https://www.youtube.com/@Dark_Shade_Gaming)
+[![TZAILabs](https://img.shields.io/badge/TZAILabs-upcoming_AI_content-102c4a?style=for-the-badge&labelColor=071326&logo=youtube&logoColor=7dd3fc)](https://www.youtube.com/@TZAILABS)
 
-## GitHub activity
+</div>
 
-<img src="./assets/contributions.svg" alt="Public GitHub contribution calendar for technoezmobile" width="100%" />
+<img src="./assets/section-05.svg" width="100%" alt="05 — Find me around the web: open to thoughtful conversations and collaboration." />
 
-<sub>Generated from GitHub's public contribution calendar and refreshed daily. Private contributions are not included in this graph.</sub>
+<p align="center">
+  <a href="mailto:contactme@technoezmobile.com"><img src="https://img.shields.io/badge/PROFESSIONAL_EMAIL-contactme%40technoezmobile.com-102c4a?style=for-the-badge&labelColor=071326&logo=gmail&logoColor=7dd3fc" alt="Professional email: contactme@technoezmobile.com" /></a>
+  <a href="mailto:workwithtechnoez@gmail.com"><img src="https://img.shields.io/badge/WORK_INQUIRIES-workwithtechnoez%40gmail.com-102c4a?style=for-the-badge&labelColor=071326&logo=gmail&logoColor=7dd3fc" alt="Work inquiries: workwithtechnoez@gmail.com" /></a>
+</p>
+
+<a href="https://me.technoezmobile.com"><img src="./assets/footer.svg" width="100%" alt="Build with curiosity, ship with purpose. Contact Shivam Singh for web development, freelance projects, and technology content." /></a>
+
+<p align="center"><sub>The contribution calendar uses GitHub’s public activity page and refreshes daily. Private activity is not included.</sub></p>
+

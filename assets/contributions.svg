@@ -1,8 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="188" viewBox="0 0 896 188" role="img" aria-labelledby="title desc">
-<title id="title">GitHub contributions for technoezmobile</title>
-<desc id="desc">A calendar showing 19 contributions over the last year.</desc>
-<style>@keyframes rise{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.day{animation:rise .45s ease-out both}@media(prefers-reduced-motion:reduce){.day{animation:none}}</style>
-<text x="40" y="18" fill="#cbd5e1" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">19 public contributions in the last year</text>
+<title id="title">Shivam Singh’s GitHub contribution calendar</title>
+<desc id="desc">A calendar showing 27 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
+<style>@keyframes reveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.wave{animation:reveal .4s ease-out both}@media(prefers-reduced-motion:reduce){.wave{animation:none;opacity:1}}</style>
+<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  27 public contributions</tspan></text>
+<path d="M40 25H884" stroke="#203854"/>
 <text x="3" y="60" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Mon</text>
 <text x="3" y="92" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Wed</text>
 <text x="3" y="124" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Fri</text>
@@ -18,11 +19,186 @@
 <text x="664" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Aug</text>
 <text x="744" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Sep</text>
 <text x="808" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Oct</text>
-<path class="day" fill="#18212b" d="M40 34h12v12h-12zM40 50h12v12h-12zM40 66h12v12h-12zM40 82h12v12h-12zM40 98h12v12h-12zM40 114h12v12h-12zM40 130h12v12h-12zM56 34h12v12h-12zM56 50h12v12h-12zM56 66h12v12h-12zM56 82h12v12h-12zM56 98h12v12h-12zM56 114h12v12h-12zM56 130h12v12h-12zM72 34h12v12h-12zM72 50h12v12h-12zM72 66h12v12h-12zM72 82h12v12h-12zM72 98h12v12h-12zM72 114h12v12h-12zM72 130h12v12h-12zM88 34h12v12h-12zM88 50h12v12h-12zM88 66h12v12h-12zM88 82h12v12h-12zM88 98h12v12h-12zM88 114h12v12h-12zM88 130h12v12h-12zM104 34h12v12h-12zM104 50h12v12h-12zM104 66h12v12h-12zM104 82h12v12h-12zM104 98h12v12h-12zM104 114h12v12h-12zM104 130h12v12h-12zM120 34h12v12h-12zM120 50h12v12h-12zM120 66h12v12h-12zM120 82h12v12h-12zM120 98h12v12h-12zM120 114h12v12h-12zM120 130h12v12h-12zM136 34h12v12h-12zM136 50h12v12h-12zM136 66h12v12h-12zM136 82h12v12h-12zM136 98h12v12h-12zM136 114h12v12h-12zM136 130h12v12h-12zM152 34h12v12h-12zM152 50h12v12h-12zM152 66h12v12h-12zM152 82h12v12h-12zM152 98h12v12h-12zM152 114h12v12h-12zM152 130h12v12h-12zM168 34h12v12h-12zM168 50h12v12h-12zM168 66h12v12h-12zM168 82h12v12h-12zM168 98h12v12h-12zM168 114h12v12h-12zM168 130h12v12h-12zM184 34h12v12h-12zM184 50h12v12h-12zM184 66h12v12h-12zM184 82h12v12h-12zM184 98h12v12h-12zM184 114h12v12h-12zM184 130h12v12h-12zM200 34h12v12h-12zM200 50h12v12h-12zM200 66h12v12h-12zM200 82h12v12h-12zM200 98h12v12h-12zM200 114h12v12h-12zM200 130h12v12h-12zM216 34h12v12h-12zM216 50h12v12h-12zM216 66h12v12h-12zM216 82h12v12h-12zM216 98h12v12h-12zM216 114h12v12h-12zM216 130h12v12h-12zM232 34h12v12h-12zM232 50h12v12h-12zM232 66h12v12h-12zM232 82h12v12h-12zM232 98h12v12h-12zM232 114h12v12h-12zM232 130h12v12h-12zM248 34h12v12h-12zM248 50h12v12h-12zM248 66h12v12h-12zM248 82h12v12h-12zM248 98h12v12h-12zM248 114h12v12h-12zM248 130h12v12h-12zM264 34h12v12h-12zM264 50h12v12h-12zM264 66h12v12h-12zM264 82h12v12h-12zM264 98h12v12h-12zM264 114h12v12h-12zM264 130h12v12h-12zM280 34h12v12h-12zM280 50h12v12h-12zM280 66h12v12h-12zM280 82h12v12h-12zM280 98h12v12h-12zM280 114h12v12h-12zM280 130h12v12h-12zM296 34h12v12h-12zM296 50h12v12h-12zM296 66h12v12h-12zM296 82h12v12h-12zM296 98h12v12h-12zM296 114h12v12h-12zM296 130h12v12h-12zM312 34h12v12h-12zM312 50h12v12h-12zM312 66h12v12h-12zM312 82h12v12h-12zM312 98h12v12h-12zM312 114h12v12h-12zM312 130h12v12h-12zM328 34h12v12h-12zM328 50h12v12h-12zM328 66h12v12h-12zM328 82h12v12h-12zM328 98h12v12h-12zM328 114h12v12h-12zM328 130h12v12h-12zM344 34h12v12h-12zM344 50h12v12h-12zM344 66h12v12h-12zM344 82h12v12h-12zM344 98h12v12h-12zM344 114h12v12h-12zM344 130h12v12h-12zM360 34h12v12h-12zM360 50h12v12h-12zM360 66h12v12h-12zM360 82h12v12h-12zM360 98h12v12h-12zM360 114h12v12h-12zM360 130h12v12h-12zM376 34h12v12h-12zM376 50h12v12h-12zM376 66h12v12h-12zM376 82h12v12h-12zM376 98h12v12h-12zM376 114h12v12h-12zM376 130h12v12h-12zM392 34h12v12h-12zM392 50h12v12h-12zM392 66h12v12h-12zM392 82h12v12h-12zM392 98h12v12h-12zM392 114h12v12h-12zM392 130h12v12h-12zM408 34h12v12h-12zM408 50h12v12h-12zM408 66h12v12h-12zM408 82h12v12h-12zM408 98h12v12h-12zM408 114h12v12h-12zM408 130h12v12h-12zM424 34h12v12h-12zM424 50h12v12h-12zM424 66h12v12h-12zM424 82h12v12h-12zM424 98h12v12h-12zM424 114h12v12h-12zM424 130h12v12h-12zM440 34h12v12h-12zM440 50h12v12h-12zM440 66h12v12h-12zM440 82h12v12h-12zM440 98h12v12h-12zM440 114h12v12h-12zM440 130h12v12h-12zM456 34h12v12h-12zM456 50h12v12h-12zM456 66h12v12h-12zM456 82h12v12h-12zM456 98h12v12h-12zM456 114h12v12h-12zM456 130h12v12h-12zM472 34h12v12h-12zM472 50h12v12h-12zM472 66h12v12h-12zM472 82h12v12h-12zM472 98h12v12h-12zM472 114h12v12h-12zM472 130h12v12h-12zM488 34h12v12h-12zM488 50h12v12h-12zM488 66h12v12h-12zM488 82h12v12h-12zM488 98h12v12h-12zM488 114h12v12h-12zM488 130h12v12h-12zM504 34h12v12h-12zM504 50h12v12h-12zM504 66h12v12h-12zM504 82h12v12h-12zM504 98h12v12h-12zM504 114h12v12h-12zM504 130h12v12h-12zM520 34h12v12h-12zM520 50h12v12h-12zM520 66h12v12h-12zM520 82h12v12h-12zM520 98h12v12h-12zM520 114h12v12h-12zM520 130h12v12h-12zM536 34h12v12h-12zM536 50h12v12h-12zM536 66h12v12h-12zM536 82h12v12h-12zM536 98h12v12h-12zM536 114h12v12h-12zM536 130h12v12h-12zM552 34h12v12h-12zM552 50h12v12h-12zM552 66h12v12h-12zM552 82h12v12h-12zM552 98h12v12h-12zM552 114h12v12h-12zM552 130h12v12h-12zM568 34h12v12h-12zM568 50h12v12h-12zM568 66h12v12h-12zM568 82h12v12h-12zM568 98h12v12h-12zM568 114h12v12h-12zM568 130h12v12h-12zM584 34h12v12h-12zM584 50h12v12h-12zM584 66h12v12h-12zM584 82h12v12h-12zM584 98h12v12h-12zM584 114h12v12h-12zM584 130h12v12h-12zM600 34h12v12h-12zM600 50h12v12h-12zM600 66h12v12h-12zM600 82h12v12h-12zM600 98h12v12h-12zM600 114h12v12h-12zM600 130h12v12h-12zM616 34h12v12h-12zM616 50h12v12h-12zM616 66h12v12h-12zM616 82h12v12h-12zM616 98h12v12h-12zM616 114h12v12h-12zM616 130h12v12h-12zM632 34h12v12h-12zM632 50h12v12h-12zM632 66h12v12h-12zM632 82h12v12h-12zM632 98h12v12h-12zM632 114h12v12h-12zM632 130h12v12h-12zM648 34h12v12h-12zM648 50h12v12h-12zM648 66h12v12h-12zM648 82h12v12h-12zM648 98h12v12h-12zM648 114h12v12h-12zM648 130h12v12h-12zM664 34h12v12h-12zM664 50h12v12h-12zM664 66h12v12h-12zM664 82h12v12h-12zM664 98h12v12h-12zM664 114h12v12h-12zM664 130h12v12h-12zM680 34h12v12h-12zM680 66h12v12h-12zM680 82h12v12h-12zM680 98h12v12h-12zM680 114h12v12h-12zM680 130h12v12h-12zM696 34h12v12h-12zM696 50h12v12h-12zM696 66h12v12h-12zM696 82h12v12h-12zM696 98h12v12h-12zM696 114h12v12h-12zM696 130h12v12h-12zM712 34h12v12h-12zM712 50h12v12h-12zM712 66h12v12h-12zM712 82h12v12h-12zM712 98h12v12h-12zM712 114h12v12h-12zM712 130h12v12h-12zM728 34h12v12h-12zM728 50h12v12h-12zM728 66h12v12h-12zM728 82h12v12h-12zM728 98h12v12h-12zM728 114h12v12h-12zM728 130h12v12h-12zM744 34h12v12h-12zM744 50h12v12h-12zM744 66h12v12h-12zM744 82h12v12h-12zM744 98h12v12h-12zM744 114h12v12h-12zM744 130h12v12h-12zM760 34h12v12h-12zM760 50h12v12h-12zM760 66h12v12h-12zM760 82h12v12h-12zM760 98h12v12h-12zM760 114h12v12h-12zM760 130h12v12h-12zM776 34h12v12h-12zM776 50h12v12h-12zM776 66h12v12h-12zM776 82h12v12h-12zM776 98h12v12h-12zM776 114h12v12h-12zM776 130h12v12h-12zM792 34h12v12h-12zM792 50h12v12h-12zM792 66h12v12h-12zM792 82h12v12h-12zM792 98h12v12h-12zM792 114h12v12h-12zM792 130h12v12h-12zM808 34h12v12h-12zM808 50h12v12h-12zM808 66h12v12h-12zM808 82h12v12h-12zM808 98h12v12h-12zM808 114h12v12h-12zM808 130h12v12h-12zM824 34h12v12h-12zM824 50h12v12h-12zM824 66h12v12h-12zM824 82h12v12h-12zM824 98h12v12h-12zM824 114h12v12h-12zM824 130h12v12h-12zM840 34h12v12h-12zM840 50h12v12h-12zM840 66h12v12h-12zM840 82h12v12h-12zM840 98h12v12h-12zM840 114h12v12h-12zM840 130h12v12h-12zM856 34h12v12h-12zM856 82h12v12h-12zM856 114h12v12h-12zM856 130h12v12h-12z"/>
-<path class="day" fill="#0c3b32" d="M856 98h12v12h-12z"/>
-<path class="day" fill="#087b5b" d="M680 50h12v12h-12zM872 34h12v12h-12z"/>
-<path class="day" fill="#12a875" d=""/>
-<path class="day" fill="#6ee7b7" d="M856 50h12v12h-12zM856 66h12v12h-12z"/>
+<style>.w0{animation-delay:0.000s}.w1{animation-delay:0.018s}.w2{animation-delay:0.036s}.w3{animation-delay:0.054s}.w4{animation-delay:0.072s}.w5{animation-delay:0.090s}.w6{animation-delay:0.108s}.w7{animation-delay:0.126s}.w8{animation-delay:0.144s}.w9{animation-delay:0.162s}.w10{animation-delay:0.180s}.w11{animation-delay:0.198s}.w12{animation-delay:0.216s}.w13{animation-delay:0.234s}.w14{animation-delay:0.252s}.w15{animation-delay:0.270s}.w16{animation-delay:0.288s}.w17{animation-delay:0.306s}.w18{animation-delay:0.324s}.w19{animation-delay:0.342s}.w20{animation-delay:0.360s}.w21{animation-delay:0.378s}.w22{animation-delay:0.396s}.w23{animation-delay:0.414s}.w24{animation-delay:0.432s}.w25{animation-delay:0.450s}.w26{animation-delay:0.468s}.w27{animation-delay:0.486s}.w28{animation-delay:0.504s}.w29{animation-delay:0.522s}.w30{animation-delay:0.540s}.w31{animation-delay:0.558s}.w32{animation-delay:0.576s}.w33{animation-delay:0.594s}.w34{animation-delay:0.612s}.w35{animation-delay:0.630s}.w36{animation-delay:0.648s}.w37{animation-delay:0.666s}.w38{animation-delay:0.684s}.w39{animation-delay:0.702s}.w40{animation-delay:0.720s}.w41{animation-delay:0.738s}.w42{animation-delay:0.756s}.w43{animation-delay:0.774s}.w44{animation-delay:0.792s}.w45{animation-delay:0.810s}.w46{animation-delay:0.828s}.w47{animation-delay:0.846s}.w48{animation-delay:0.864s}.w49{animation-delay:0.882s}.w50{animation-delay:0.900s}.w51{animation-delay:0.918s}.w52{animation-delay:0.936s}.w53{animation-delay:0.954s}.w54{animation-delay:0.972s}.w55{animation-delay:0.990s}.w56{animation-delay:1.008s}.w57{animation-delay:1.026s}</style>
+<g class="wave w0">
+<path fill="#18212b" d="M40 34h12v12h-12z"/>
+</g>
+<g class="wave w1">
+<path fill="#18212b" d="M40 50h12v12h-12zM56 34h12v12h-12z"/>
+</g>
+<g class="wave w2">
+<path fill="#18212b" d="M40 66h12v12h-12zM56 50h12v12h-12zM72 34h12v12h-12z"/>
+</g>
+<g class="wave w3">
+<path fill="#18212b" d="M40 82h12v12h-12zM56 66h12v12h-12zM72 50h12v12h-12zM88 34h12v12h-12z"/>
+</g>
+<g class="wave w4">
+<path fill="#18212b" d="M40 98h12v12h-12zM56 82h12v12h-12zM72 66h12v12h-12zM88 50h12v12h-12zM104 34h12v12h-12z"/>
+</g>
+<g class="wave w5">
+<path fill="#18212b" d="M40 114h12v12h-12zM56 98h12v12h-12zM72 82h12v12h-12zM88 66h12v12h-12zM104 50h12v12h-12zM120 34h12v12h-12z"/>
+</g>
+<g class="wave w6">
+<path fill="#18212b" d="M40 130h12v12h-12zM56 114h12v12h-12zM72 98h12v12h-12zM88 82h12v12h-12zM104 66h12v12h-12zM120 50h12v12h-12zM136 34h12v12h-12z"/>
+</g>
+<g class="wave w7">
+<path fill="#18212b" d="M56 130h12v12h-12zM72 114h12v12h-12zM88 98h12v12h-12zM104 82h12v12h-12zM120 66h12v12h-12zM136 50h12v12h-12zM152 34h12v12h-12z"/>
+</g>
+<g class="wave w8">
+<path fill="#18212b" d="M72 130h12v12h-12zM88 114h12v12h-12zM104 98h12v12h-12zM120 82h12v12h-12zM136 66h12v12h-12zM152 50h12v12h-12zM168 34h12v12h-12z"/>
+</g>
+<g class="wave w9">
+<path fill="#18212b" d="M88 130h12v12h-12zM104 114h12v12h-12zM120 98h12v12h-12zM136 82h12v12h-12zM152 66h12v12h-12zM168 50h12v12h-12zM184 34h12v12h-12z"/>
+</g>
+<g class="wave w10">
+<path fill="#18212b" d="M104 130h12v12h-12zM120 114h12v12h-12zM136 98h12v12h-12zM152 82h12v12h-12zM168 66h12v12h-12zM184 50h12v12h-12zM200 34h12v12h-12z"/>
+</g>
+<g class="wave w11">
+<path fill="#18212b" d="M120 130h12v12h-12zM136 114h12v12h-12zM152 98h12v12h-12zM168 82h12v12h-12zM184 66h12v12h-12zM200 50h12v12h-12zM216 34h12v12h-12z"/>
+</g>
+<g class="wave w12">
+<path fill="#18212b" d="M136 130h12v12h-12zM152 114h12v12h-12zM168 98h12v12h-12zM184 82h12v12h-12zM200 66h12v12h-12zM216 50h12v12h-12zM232 34h12v12h-12z"/>
+</g>
+<g class="wave w13">
+<path fill="#18212b" d="M152 130h12v12h-12zM168 114h12v12h-12zM184 98h12v12h-12zM200 82h12v12h-12zM216 66h12v12h-12zM232 50h12v12h-12zM248 34h12v12h-12z"/>
+</g>
+<g class="wave w14">
+<path fill="#18212b" d="M168 130h12v12h-12zM184 114h12v12h-12zM200 98h12v12h-12zM216 82h12v12h-12zM232 66h12v12h-12zM248 50h12v12h-12zM264 34h12v12h-12z"/>
+</g>
+<g class="wave w15">
+<path fill="#18212b" d="M184 130h12v12h-12zM200 114h12v12h-12zM216 98h12v12h-12zM232 82h12v12h-12zM248 66h12v12h-12zM264 50h12v12h-12zM280 34h12v12h-12z"/>
+</g>
+<g class="wave w16">
+<path fill="#18212b" d="M200 130h12v12h-12zM216 114h12v12h-12zM232 98h12v12h-12zM248 82h12v12h-12zM264 66h12v12h-12zM280 50h12v12h-12zM296 34h12v12h-12z"/>
+</g>
+<g class="wave w17">
+<path fill="#18212b" d="M216 130h12v12h-12zM232 114h12v12h-12zM248 98h12v12h-12zM264 82h12v12h-12zM280 66h12v12h-12zM296 50h12v12h-12zM312 34h12v12h-12z"/>
+</g>
+<g class="wave w18">
+<path fill="#18212b" d="M232 130h12v12h-12zM248 114h12v12h-12zM264 98h12v12h-12zM280 82h12v12h-12zM296 66h12v12h-12zM312 50h12v12h-12zM328 34h12v12h-12z"/>
+</g>
+<g class="wave w19">
+<path fill="#18212b" d="M248 130h12v12h-12zM264 114h12v12h-12zM280 98h12v12h-12zM296 82h12v12h-12zM312 66h12v12h-12zM328 50h12v12h-12zM344 34h12v12h-12z"/>
+</g>
+<g class="wave w20">
+<path fill="#18212b" d="M264 130h12v12h-12zM280 114h12v12h-12zM296 98h12v12h-12zM312 82h12v12h-12zM328 66h12v12h-12zM344 50h12v12h-12zM360 34h12v12h-12z"/>
+</g>
+<g class="wave w21">
+<path fill="#18212b" d="M280 130h12v12h-12zM296 114h12v12h-12zM312 98h12v12h-12zM328 82h12v12h-12zM344 66h12v12h-12zM360 50h12v12h-12zM376 34h12v12h-12z"/>
+</g>
+<g class="wave w22">
+<path fill="#18212b" d="M296 130h12v12h-12zM312 114h12v12h-12zM328 98h12v12h-12zM344 82h12v12h-12zM360 66h12v12h-12zM376 50h12v12h-12zM392 34h12v12h-12z"/>
+</g>
+<g class="wave w23">
+<path fill="#18212b" d="M312 130h12v12h-12zM328 114h12v12h-12zM344 98h12v12h-12zM360 82h12v12h-12zM376 66h12v12h-12zM392 50h12v12h-12zM408 34h12v12h-12z"/>
+</g>
+<g class="wave w24">
+<path fill="#18212b" d="M328 130h12v12h-12zM344 114h12v12h-12zM360 98h12v12h-12zM376 82h12v12h-12zM392 66h12v12h-12zM408 50h12v12h-12zM424 34h12v12h-12z"/>
+</g>
+<g class="wave w25">
+<path fill="#18212b" d="M344 130h12v12h-12zM360 114h12v12h-12zM376 98h12v12h-12zM392 82h12v12h-12zM408 66h12v12h-12zM424 50h12v12h-12zM440 34h12v12h-12z"/>
+</g>
+<g class="wave w26">
+<path fill="#18212b" d="M360 130h12v12h-12zM376 114h12v12h-12zM392 98h12v12h-12zM408 82h12v12h-12zM424 66h12v12h-12zM440 50h12v12h-12zM456 34h12v12h-12z"/>
+</g>
+<g class="wave w27">
+<path fill="#18212b" d="M376 130h12v12h-12zM392 114h12v12h-12zM408 98h12v12h-12zM424 82h12v12h-12zM440 66h12v12h-12zM456 50h12v12h-12zM472 34h12v12h-12z"/>
+</g>
+<g class="wave w28">
+<path fill="#18212b" d="M392 130h12v12h-12zM408 114h12v12h-12zM424 98h12v12h-12zM440 82h12v12h-12zM456 66h12v12h-12zM472 50h12v12h-12zM488 34h12v12h-12z"/>
+</g>
+<g class="wave w29">
+<path fill="#18212b" d="M408 130h12v12h-12zM424 114h12v12h-12zM440 98h12v12h-12zM456 82h12v12h-12zM472 66h12v12h-12zM488 50h12v12h-12zM504 34h12v12h-12z"/>
+</g>
+<g class="wave w30">
+<path fill="#18212b" d="M424 130h12v12h-12zM440 114h12v12h-12zM456 98h12v12h-12zM472 82h12v12h-12zM488 66h12v12h-12zM504 50h12v12h-12zM520 34h12v12h-12z"/>
+</g>
+<g class="wave w31">
+<path fill="#18212b" d="M440 130h12v12h-12zM456 114h12v12h-12zM472 98h12v12h-12zM488 82h12v12h-12zM504 66h12v12h-12zM520 50h12v12h-12zM536 34h12v12h-12z"/>
+</g>
+<g class="wave w32">
+<path fill="#18212b" d="M456 130h12v12h-12zM472 114h12v12h-12zM488 98h12v12h-12zM504 82h12v12h-12zM520 66h12v12h-12zM536 50h12v12h-12zM552 34h12v12h-12z"/>
+</g>
+<g class="wave w33">
+<path fill="#18212b" d="M472 130h12v12h-12zM488 114h12v12h-12zM504 98h12v12h-12zM520 82h12v12h-12zM536 66h12v12h-12zM552 50h12v12h-12zM568 34h12v12h-12z"/>
+</g>
+<g class="wave w34">
+<path fill="#18212b" d="M488 130h12v12h-12zM504 114h12v12h-12zM520 98h12v12h-12zM536 82h12v12h-12zM552 66h12v12h-12zM568 50h12v12h-12zM584 34h12v12h-12z"/>
+</g>
+<g class="wave w35">
+<path fill="#18212b" d="M504 130h12v12h-12zM520 114h12v12h-12zM536 98h12v12h-12zM552 82h12v12h-12zM568 66h12v12h-12zM584 50h12v12h-12zM600 34h12v12h-12z"/>
+</g>
+<g class="wave w36">
+<path fill="#18212b" d="M520 130h12v12h-12zM536 114h12v12h-12zM552 98h12v12h-12zM568 82h12v12h-12zM584 66h12v12h-12zM600 50h12v12h-12zM616 34h12v12h-12z"/>
+</g>
+<g class="wave w37">
+<path fill="#18212b" d="M536 130h12v12h-12zM552 114h12v12h-12zM568 98h12v12h-12zM584 82h12v12h-12zM600 66h12v12h-12zM616 50h12v12h-12zM632 34h12v12h-12z"/>
+</g>
+<g class="wave w38">
+<path fill="#18212b" d="M552 130h12v12h-12zM568 114h12v12h-12zM584 98h12v12h-12zM600 82h12v12h-12zM616 66h12v12h-12zM632 50h12v12h-12zM648 34h12v12h-12z"/>
+</g>
+<g class="wave w39">
+<path fill="#18212b" d="M568 130h12v12h-12zM584 114h12v12h-12zM600 98h12v12h-12zM616 82h12v12h-12zM632 66h12v12h-12zM648 50h12v12h-12zM664 34h12v12h-12z"/>
+</g>
+<g class="wave w40">
+<path fill="#18212b" d="M584 130h12v12h-12zM600 114h12v12h-12zM616 98h12v12h-12zM632 82h12v12h-12zM648 66h12v12h-12zM664 50h12v12h-12zM680 34h12v12h-12z"/>
+</g>
+<g class="wave w41">
+<path fill="#18212b" d="M600 130h12v12h-12zM616 114h12v12h-12zM632 98h12v12h-12zM648 82h12v12h-12zM664 66h12v12h-12zM696 34h12v12h-12z"/>
+<path fill="#087b5b" d="M680 50h12v12h-12z"/>
+</g>
+<g class="wave w42">
+<path fill="#18212b" d="M616 130h12v12h-12zM632 114h12v12h-12zM648 98h12v12h-12zM664 82h12v12h-12zM680 66h12v12h-12zM696 50h12v12h-12zM712 34h12v12h-12z"/>
+</g>
+<g class="wave w43">
+<path fill="#18212b" d="M632 130h12v12h-12zM648 114h12v12h-12zM664 98h12v12h-12zM680 82h12v12h-12zM696 66h12v12h-12zM712 50h12v12h-12zM728 34h12v12h-12z"/>
+</g>
+<g class="wave w44">
+<path fill="#18212b" d="M648 130h12v12h-12zM664 114h12v12h-12zM680 98h12v12h-12zM696 82h12v12h-12zM712 66h12v12h-12zM728 50h12v12h-12zM744 34h12v12h-12z"/>
+</g>
+<g class="wave w45">
+<path fill="#18212b" d="M664 130h12v12h-12zM680 114h12v12h-12zM696 98h12v12h-12zM712 82h12v12h-12zM728 66h12v12h-12zM744 50h12v12h-12zM760 34h12v12h-12z"/>
+</g>
+<g class="wave w46">
+<path fill="#18212b" d="M680 130h12v12h-12zM696 114h12v12h-12zM712 98h12v12h-12zM728 82h12v12h-12zM744 66h12v12h-12zM760 50h12v12h-12zM776 34h12v12h-12z"/>
+</g>
+<g class="wave w47">
+<path fill="#18212b" d="M696 130h12v12h-12zM712 114h12v12h-12zM728 98h12v12h-12zM744 82h12v12h-12zM760 66h12v12h-12zM776 50h12v12h-12zM792 34h12v12h-12z"/>
+</g>
+<g class="wave w48">
+<path fill="#18212b" d="M712 130h12v12h-12zM728 114h12v12h-12zM744 98h12v12h-12zM760 82h12v12h-12zM776 66h12v12h-12zM792 50h12v12h-12zM808 34h12v12h-12z"/>
+</g>
+<g class="wave w49">
+<path fill="#18212b" d="M728 130h12v12h-12zM744 114h12v12h-12zM760 98h12v12h-12zM776 82h12v12h-12zM792 66h12v12h-12zM808 50h12v12h-12zM824 34h12v12h-12z"/>
+</g>
+<g class="wave w50">
+<path fill="#18212b" d="M744 130h12v12h-12zM760 114h12v12h-12zM776 98h12v12h-12zM792 82h12v12h-12zM808 66h12v12h-12zM824 50h12v12h-12zM840 34h12v12h-12z"/>
+</g>
+<g class="wave w51">
+<path fill="#18212b" d="M760 130h12v12h-12zM776 114h12v12h-12zM792 98h12v12h-12zM808 82h12v12h-12zM824 66h12v12h-12zM840 50h12v12h-12zM856 34h12v12h-12z"/>
+</g>
+<g class="wave w52">
+<path fill="#18212b" d="M776 130h12v12h-12zM792 114h12v12h-12zM808 98h12v12h-12zM824 82h12v12h-12zM840 66h12v12h-12z"/>
+<path fill="#12a875" d="M856 50h12v12h-12z"/>
+<path fill="#6ee7b7" d="M872 34h12v12h-12z"/>
+</g>
+<g class="wave w53">
+<path fill="#18212b" d="M792 130h12v12h-12zM808 114h12v12h-12zM824 98h12v12h-12zM840 82h12v12h-12z"/>
+<path fill="#12a875" d="M856 66h12v12h-12z"/>
+</g>
+<g class="wave w54">
+<path fill="#18212b" d="M808 130h12v12h-12zM824 114h12v12h-12zM840 98h12v12h-12zM856 82h12v12h-12z"/>
+</g>
+<g class="wave w55">
+<path fill="#18212b" d="M824 130h12v12h-12zM840 114h12v12h-12z"/>
+<path fill="#0c3b32" d="M856 98h12v12h-12z"/>
+</g>
+<g class="wave w56">
+<path fill="#18212b" d="M840 130h12v12h-12zM856 114h12v12h-12z"/>
+</g>
+<g class="wave w57">
+<path fill="#18212b" d="M856 130h12v12h-12z"/>
+</g>
 <text x="40" y="164" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Less</text>
 <rect x="71" y="154" width="12" height="12" rx="3" fill="#18212b"/>
 <rect x="87" y="154" width="12" height="12" rx="3" fill="#0c3b32"/>
@@ -31,3 +207,4 @@
 <rect x="135" y="154" width="12" height="12" rx="3" fill="#6ee7b7"/>
 <text x="151" y="164" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">More</text>
 </svg>
+
