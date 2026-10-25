@@ -129,9 +129,8 @@ def main():
         frame=banner.copy(); ui.rainbow_border(frame,(3,3,996,371),math.tau*i/32,radius=14,width=3,speed=1); frames.append(frame)
     save_animation('hero-motion',frames,static_rects=((16,16,984,359),))
     # Remove the decorative wireframe spheres from the supporting panels.
-    ui.draw_sphere=lambda *args,**kwargs: None
-    for name,fn in [('toolkit-motion',ui.toolkit),('contact-motion',ui.contact),('experience-motion',ui.experience)]:
-        ui.render_gif(name,fn,n=32,duration=125,colors=256,size=(1000,360))
+    import render_support_sections
+    render_support_sections.main()
     print('Rendered authentic project cards, channel art, portrait, banner and readable buttons.')
 
 if __name__=='__main__': main()

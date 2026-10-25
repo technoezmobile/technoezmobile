@@ -23,11 +23,11 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install image renderer
-        run: python -m pip install Pillow
+        run: python -m pip install Pillow numpy
       - name: Refresh contribution calendar
         run: python scripts/update_contributions.py
       - name: Render animated contribution calendar
-        run: python scripts/render_motion_profile.py --contributions-only
+        run: python scripts/render_support_sections.py --contributions-only
       - name: Refresh contribution image cache keys
         env:
           GITHUB_RUN_ID: ${{ github.run_id }}
@@ -37,4 +37,3 @@ jobs:
         with:
           commit_message: "chore: refresh profile contributions [skip ci]"
           file_pattern: "README.md assets/contributions.svg assets/contributions-motion.gif assets/contributions-motion-poster.png data/contributions.json"
-
