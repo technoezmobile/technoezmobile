@@ -1,0 +1,31 @@
+name: Refresh profile contributions
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-contributions
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Refresh contribution calendar
+        run: python scripts/update_contributions.py
+      - name: Commit generated files when changed
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "chore: refresh profile contributions [skip ci]"
+          file_pattern: "assets/contributions.svg data/contributions.json"
