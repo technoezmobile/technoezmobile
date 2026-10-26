@@ -91,8 +91,8 @@ My earlier experience also includes supplier support, customer service, website 
 ## 05 · Build log — GitHub activity
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/technoezmobile/technoezmobile/89d60f543821ef77d433253af1069c7e85c9c8a6/assets/contributions-motion-poster.png">
-  <img src="https://raw.githubusercontent.com/technoezmobile/technoezmobile/89d60f543821ef77d433253af1069c7e85c9c8a6/assets/contributions-motion.gif" width="100%" alt="Verified public contributions, active days and best public day, with a date-aligned contribution calendar. Private activity is excluded." />
+  <source media="(prefers-reduced-motion: reduce)" srcset="https://raw.githubusercontent.com/technoezmobile/technoezmobile/main/assets/contributions-motion-poster.png?v=40326067385">
+  <img src="https://raw.githubusercontent.com/technoezmobile/technoezmobile/main/assets/contributions-motion.gif?v=40326067385" width="100%" alt="Verified public contributions, active days and best public day, with a date-aligned contribution calendar. Private activity is excluded." />
 </picture>
 
 The contribution view uses public GitHub activity. Private contributions are not included.
