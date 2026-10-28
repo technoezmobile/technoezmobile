@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="188" viewBox="0 0 896 188" role="img" aria-labelledby="title desc">
 <title id="title">Shivam Singh’s GitHub contribution calendar</title>
-<desc id="desc">A calendar showing 40 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
+<desc id="desc">A calendar showing 41 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
 <style>@keyframes reveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.wave{animation:reveal .4s ease-out both}@media(prefers-reduced-motion:reduce){.wave{animation:none;opacity:1}}</style>
-<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  40 public contributions</tspan></text>
+<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  41 public contributions</tspan></text>
 <path d="M40 25H884" stroke="#203854"/>
 <text x="3" y="60" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Mon</text>
 <text x="3" y="92" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Wed</text>
@@ -187,10 +187,11 @@
 <path fill="#6ee7b7" d="M856 66h12v12h-12z"/>
 </g>
 <g class="wave w54">
-<path fill="#18212b" d="M808 130h12v12h-12zM824 114h12v12h-12zM840 98h12v12h-12zM856 82h12v12h-12zM872 66h12v12h-12z"/>
+<path fill="#18212b" d="M808 130h12v12h-12zM824 114h12v12h-12zM840 98h12v12h-12zM856 82h12v12h-12z"/>
+<path fill="#087b5b" d="M872 66h12v12h-12z"/>
 </g>
 <g class="wave w55">
-<path fill="#18212b" d="M824 130h12v12h-12zM840 114h12v12h-12z"/>
+<path fill="#18212b" d="M824 130h12v12h-12zM840 114h12v12h-12zM872 82h12v12h-12z"/>
 <path fill="#087b5b" d="M856 98h12v12h-12z"/>
 </g>
 <g class="wave w56">
