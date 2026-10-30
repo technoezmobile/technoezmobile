@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="188" viewBox="0 0 896 188" role="img" aria-labelledby="title desc">
 <title id="title">Shivam Singh’s GitHub contribution calendar</title>
-<desc id="desc">A calendar showing 42 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
+<desc id="desc">A calendar showing 43 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
 <style>@keyframes reveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.wave{animation:reveal .4s ease-out both}@media(prefers-reduced-motion:reduce){.wave{animation:none;opacity:1}}</style>
-<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  42 public contributions</tspan></text>
+<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  43 public contributions</tspan></text>
 <path d="M40 25H884" stroke="#203854"/>
 <text x="3" y="60" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Mon</text>
 <text x="3" y="92" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Wed</text>
@@ -195,10 +195,11 @@
 <path fill="#087b5b" d="M856 98h12v12h-12zM872 82h12v12h-12z"/>
 </g>
 <g class="wave w56">
-<path fill="#18212b" d="M840 130h12v12h-12zM856 114h12v12h-12zM872 98h12v12h-12z"/>
+<path fill="#18212b" d="M840 130h12v12h-12zM856 114h12v12h-12z"/>
+<path fill="#087b5b" d="M872 98h12v12h-12z"/>
 </g>
 <g class="wave w57">
-<path fill="#18212b" d="M856 130h12v12h-12z"/>
+<path fill="#18212b" d="M856 130h12v12h-12zM872 114h12v12h-12z"/>
 </g>
 <text x="40" y="164" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Less</text>
 <rect x="71" y="154" width="12" height="12" rx="3" fill="#18212b"/>
