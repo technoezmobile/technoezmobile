@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="896" height="188" viewBox="0 0 896 188" role="img" aria-labelledby="title desc">
 <title id="title">Shivam Singh’s GitHub contribution calendar</title>
-<desc id="desc">A calendar showing 43 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
+<desc id="desc">A calendar showing 44 contributions from GitHub’s public contribution page over the last year. Calendar cells reveal in a subtle diagonal animation.</desc>
 <style>@keyframes reveal{from{opacity:0;transform:translateY(-5px)}to{opacity:1;transform:translateY(0)}}.wave{animation:reveal .4s ease-out both}@media(prefers-reduced-motion:reduce){.wave{animation:none;opacity:1}}</style>
-<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  43 public contributions</tspan></text>
+<text x="40" y="18" fill="#e6f2ff" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">A YEAR OF BUILDING  <tspan fill="#647e9c" font-weight="400">/  44 public contributions</tspan></text>
 <path d="M40 25H884" stroke="#203854"/>
 <text x="3" y="60" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Mon</text>
 <text x="3" y="92" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Wed</text>
@@ -19,7 +19,7 @@
 <text x="664" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Aug</text>
 <text x="744" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Sep</text>
 <text x="808" y="26" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Oct</text>
-<style>.w0{animation-delay:0.000s}.w1{animation-delay:0.018s}.w2{animation-delay:0.036s}.w3{animation-delay:0.054s}.w4{animation-delay:0.072s}.w5{animation-delay:0.090s}.w6{animation-delay:0.108s}.w7{animation-delay:0.126s}.w8{animation-delay:0.144s}.w9{animation-delay:0.162s}.w10{animation-delay:0.180s}.w11{animation-delay:0.198s}.w12{animation-delay:0.216s}.w13{animation-delay:0.234s}.w14{animation-delay:0.252s}.w15{animation-delay:0.270s}.w16{animation-delay:0.288s}.w17{animation-delay:0.306s}.w18{animation-delay:0.324s}.w19{animation-delay:0.342s}.w20{animation-delay:0.360s}.w21{animation-delay:0.378s}.w22{animation-delay:0.396s}.w23{animation-delay:0.414s}.w24{animation-delay:0.432s}.w25{animation-delay:0.450s}.w26{animation-delay:0.468s}.w27{animation-delay:0.486s}.w28{animation-delay:0.504s}.w29{animation-delay:0.522s}.w30{animation-delay:0.540s}.w31{animation-delay:0.558s}.w32{animation-delay:0.576s}.w33{animation-delay:0.594s}.w34{animation-delay:0.612s}.w35{animation-delay:0.630s}.w36{animation-delay:0.648s}.w37{animation-delay:0.666s}.w38{animation-delay:0.684s}.w39{animation-delay:0.702s}.w40{animation-delay:0.720s}.w41{animation-delay:0.738s}.w42{animation-delay:0.756s}.w43{animation-delay:0.774s}.w44{animation-delay:0.792s}.w45{animation-delay:0.810s}.w46{animation-delay:0.828s}.w47{animation-delay:0.846s}.w48{animation-delay:0.864s}.w49{animation-delay:0.882s}.w50{animation-delay:0.900s}.w51{animation-delay:0.918s}.w52{animation-delay:0.936s}.w53{animation-delay:0.954s}.w54{animation-delay:0.972s}.w55{animation-delay:0.990s}.w56{animation-delay:1.008s}.w57{animation-delay:1.026s}</style>
+<style>.w0{animation-delay:0.000s}.w1{animation-delay:0.018s}.w2{animation-delay:0.036s}.w3{animation-delay:0.054s}.w4{animation-delay:0.072s}.w5{animation-delay:0.090s}.w6{animation-delay:0.108s}.w7{animation-delay:0.126s}.w8{animation-delay:0.144s}.w9{animation-delay:0.162s}.w10{animation-delay:0.180s}.w11{animation-delay:0.198s}.w12{animation-delay:0.216s}.w13{animation-delay:0.234s}.w14{animation-delay:0.252s}.w15{animation-delay:0.270s}.w16{animation-delay:0.288s}.w17{animation-delay:0.306s}.w18{animation-delay:0.324s}.w19{animation-delay:0.342s}.w20{animation-delay:0.360s}.w21{animation-delay:0.378s}.w22{animation-delay:0.396s}.w23{animation-delay:0.414s}.w24{animation-delay:0.432s}.w25{animation-delay:0.450s}.w26{animation-delay:0.468s}.w27{animation-delay:0.486s}.w28{animation-delay:0.504s}.w29{animation-delay:0.522s}.w30{animation-delay:0.540s}.w31{animation-delay:0.558s}.w32{animation-delay:0.576s}.w33{animation-delay:0.594s}.w34{animation-delay:0.612s}.w35{animation-delay:0.630s}.w36{animation-delay:0.648s}.w37{animation-delay:0.666s}.w38{animation-delay:0.684s}.w39{animation-delay:0.702s}.w40{animation-delay:0.720s}.w41{animation-delay:0.738s}.w42{animation-delay:0.756s}.w43{animation-delay:0.774s}.w44{animation-delay:0.792s}.w45{animation-delay:0.810s}.w46{animation-delay:0.828s}.w47{animation-delay:0.846s}.w48{animation-delay:0.864s}.w49{animation-delay:0.882s}.w50{animation-delay:0.900s}.w51{animation-delay:0.918s}.w52{animation-delay:0.936s}.w53{animation-delay:0.954s}.w54{animation-delay:0.972s}.w55{animation-delay:0.990s}.w56{animation-delay:1.008s}.w57{animation-delay:1.026s}.w58{animation-delay:1.044s}</style>
 <g class="wave w0">
 <path fill="#18212b" d="M40 34h12v12h-12z"/>
 </g>
@@ -199,7 +199,11 @@
 <path fill="#087b5b" d="M872 98h12v12h-12z"/>
 </g>
 <g class="wave w57">
-<path fill="#18212b" d="M856 130h12v12h-12zM872 114h12v12h-12z"/>
+<path fill="#18212b" d="M856 130h12v12h-12z"/>
+<path fill="#087b5b" d="M872 114h12v12h-12z"/>
+</g>
+<g class="wave w58">
+<path fill="#18212b" d="M872 130h12v12h-12z"/>
 </g>
 <text x="40" y="164" fill="#64748b" font-family="Segoe UI,Arial,sans-serif" font-size="10">Less</text>
 <rect x="71" y="154" width="12" height="12" rx="3" fill="#18212b"/>
